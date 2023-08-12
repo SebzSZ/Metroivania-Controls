@@ -17,3 +17,6 @@ Basic controls for a Metroidvania-like game.
 - Rebinding Controls
 - Simple Enemies
 - Inventory
+
+## Assets Used
+- [Warrior-Free Animation set](https://clembod.itch.io/warrior-free-animation-set)
